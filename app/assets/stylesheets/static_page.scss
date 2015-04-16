@@ -1,0 +1,62 @@
+@import "vars";
+
+// Place all the styles related to the static_page controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  font-size: 2em;
+  font-family: "Helvetica", "Tahoma";
+}
+
+h1 {
+  text-align: center;
+
+  span.letter {
+    font-family: "PartybyTom", "Helvetica", "Tahoma";
+  }
+}
+
+.star {
+  font-family: "lcr_party_dings", "Helvetica", "Tahoma";
+}
+
+.l1 {
+  color: #A64577;
+}
+
+.l2 {
+  color: #45A677;
+}
+
+.l3 {
+  color: #7745A6;
+}
+
+.l4 {
+  color: #694677;
+}
+
+.l5 {
+  color: #4675A7;
+}
+
+.l6 {
+  color: #A97683;
+}
+
+.l7 {
+  color: #836976;
+}
+
+.gif {
+  text-align: center;
+  width: 70%;
+  margin: 0 auto;
+  max-width: 720px;
+
+  img {
+    width: 100%;
+  }
+}
+
